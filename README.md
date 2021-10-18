@@ -1,2 +1,2 @@
 # 2048
- Gak tau gw ngapain bikin ini
+2048 game made using Unity 2020.1.6f1
